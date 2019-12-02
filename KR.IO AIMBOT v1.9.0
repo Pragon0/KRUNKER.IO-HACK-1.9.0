@@ -15,7 +15,7 @@
 alert("INJECTED KRUNKER SNIPER")
 // Starts the game
 document.title = "Krunker_SNIPER";
-// Edits the game status to zaresplusx more changes gonna come toh
+// Edits the game status to faze sniper more changes gonna come toh
 document.getElementById("instructions").style.color = "Red";
 document.getElementById('instructions').innerHTML = 'Loading Krunker_Sniper by NoS Team';
 document.getElementById('modVote').innerHTML = 'YT_FAZE SNIPER';
